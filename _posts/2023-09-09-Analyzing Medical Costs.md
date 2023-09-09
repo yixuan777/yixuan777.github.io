@@ -11,4 +11,4 @@ date: 2023-09-09
 
 [Code](https://www.kaggle.com/code/twyixuanli/analyzing-medical-costs)    
 
-[PowerPoint](https://drive.google.com/drive/my-drive)  
+[PowerPoint](https://drive.google.com/file/d/1Pk-tk7VwM7KX3Xk1slPegyLIgS7kOuQM/view?usp=drive_link)  
