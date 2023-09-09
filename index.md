@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-This is a place to display my work
+This is a space to display my work
